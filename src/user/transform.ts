@@ -1,4 +1,4 @@
-import { BackendUser, FrontendUser } from "./user/UserModel";
+import { BackendUser, FrontendUser } from "./UserModel";
 
 const mappings = {
   id: "value",
